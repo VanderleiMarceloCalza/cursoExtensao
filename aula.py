@@ -12,4 +12,7 @@ ai entao pode fazer o git push origin main
 se precisar voltar atras 
 usa-se o git log --oneline para ver onde predende voltar, copia o codigo
 digita git restore --source cola o codigo
-na sequencia add commit push')
+na sequencia add commit push
+criando branch 
+git brnch <nome da branch>
+ou git checkout -b <nome da branch')
