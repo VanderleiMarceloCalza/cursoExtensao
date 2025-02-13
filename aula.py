@@ -15,4 +15,5 @@ digita git restore --source cola o codigo
 na sequencia add commit push
 criando branch 
 git brnch <nome da branch>
-ou git checkout -b <nome da branch')
+ou git checkout -b <nome da branch
+adicionando mais uma linha para tentar mandar pra origin')
